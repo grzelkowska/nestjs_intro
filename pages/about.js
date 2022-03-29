@@ -1,9 +1,9 @@
-import NavBar from "../components/NavBar";
+// import NavBar from "../components/NavBar";
 
 const About = () => {
   return (
     <div>
-      <NavBar/>
+      {/* <NavBar/> */}
       <h1>About Us</h1>
     </div>
   )
